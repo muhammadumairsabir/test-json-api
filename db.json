@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "customers": [
-    { "id": 1, "firstname": "wided", "lastname": "Larayedh","email": "wided@test.com","phone": "0123456789","city": "Munich","status": "active" },
-    { "id": 2, "firstname": "wided", "lastname": "Larayedh","email": "wided@test.com","phone": "0123456789","city": "Munich","status": "active" },
-    { "id": 3, "firstname": "wided", "lastname": "Larayedh","email": "wided@test.com","phone": "0123456789","city": "Munich","status": "active" }
+    { "id": 1, "firstname": "wided", "lastname": "Larayedh", "email": "wided@test.com", "phone": "0123456789", "city": "Munich", "status": "active" },
+    { "id": 2, "firstname": "wided", "lastname": "Larayedh", "email": "wided@test.com", "phone": "0123456789", "city": "Munich", "status": "active" },
+    { "id": 3, "firstname": "wided", "lastname": "Larayedh", "email": "wided@test.com", "phone": "0123456789", "city": "Munich", "status": "active" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
