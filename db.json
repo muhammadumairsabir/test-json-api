@@ -18,6 +18,12 @@
     { "id": 11, "firstname": "wided", "lastname": "Larayedh", "email": "wided@test.com", "phone": "0123456789", "city": "Munich", "status": "active", "lastlogin": "2 Dasy Ago" },
     { "id": 12, "firstname": "wided", "lastname": "Larayedh", "email": "wided@test.com", "phone": "0123456789", "city": "Munich", "status": "active", "lastlogin": "2 Dasy Ago" }
   ],
+  "courses": [
+    { "id": 1, "coursename": "Barre Glow", "instructor": "Liesa Lier", "date": "12-05-2022", "time": "11:00 - 12:00", "price": "18 €", "status": "active", "location": "Koln" },
+    { "id": 2, "coursename": "ballet", "instructor": "Ekaterina Langen", "date": "12-05-2022", "time": "11:00 - 12:00", "price": "18 €", "status": "active", "location": "Koln" },
+    { "id": 3, "coursename": "Barre Flex", "instructor": "Cindy Wagner", "date": "12-05-2022", "time": "11:00 - 12:00", "price": "18 €", "status": "active", "location": "Koln" },
+    { "id": 4, "coursename": "Barre Ballet", "instructor": "Petrushka Mohrer", "date": "12-05-2022", "time": "11:00 - 12:00", "price": "18 €", "status": "active", "location": "Koln" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
