@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "transactionId": "2342424243242",
+      "customerFullName": "Oli Systems",
+      "locationName": "Testing",
+      "parkingLot": "string",
+      "status": "PROCESSING",
+      "startDate": "2023-04-03T23:41:06.320Z",
+      "endDate": "2023-04-03T23:41:06.320Z",
+      "energyCharged": 5.45345,
+      "sessionCost": 34.545
+    },
+    {
+      "transactionId": "234242424242",
+      "customerFullName": "HH OFFICE",
+      "locationName": "AB",
+      "parkingLot": "string",
+      "status": "FINISHED",
+      "startDate": "2023-04-03T23:41:06.320Z",
+      "endDate": "2023-04-03T23:41:06.320Z",
+      "energyCharged": 8.4545,
+      "sessionCost": 100.45
+    },
+    {
+      "transactionId": "342242424324",
+      "customerFullName": "MANNHEIM OFFICE",
+      "locationName": "CD",
+      "parkingLot": "string",
+      "status": "CHARGING",
+      "startDate": "2023-04-03T23:41:06.320Z",
+      "endDate": "2023-04-03T23:41:06.320Z",
+      "energyCharged": 54,
+      "sessionCost": 677.65
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
