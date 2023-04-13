@@ -6,8 +6,8 @@
       "locationName": "Testing",
       "parkingLot": "string",
       "status": "PROCESSING",
-      "startDate": "2023-04-04T22:23:29.037Z",
-      "endDate": "2023-04-04T23:23:29.037Z",
+      "startDate": "2023-04-04T22:23:29.037",
+      "endDate": "2023-04-04T23:23:29.037",
       "energyCharged": 5.45345,
       "sessionCost": 34.545
     },
@@ -17,8 +17,8 @@
       "locationName": "AB",
       "parkingLot": "string",
       "status": "FINISHED",
-      "startDate": "2023-04-04T12:23:29.037Z",
-      "endDate": "2023-04-04T22:23:29.037Z",
+      "startDate": "2023-04-04T12:23:29.037",
+      "endDate": "2023-04-04T22:23:29.037",
       "energyCharged": 8.4545,
       "sessionCost": 100.45
     },
@@ -28,8 +28,8 @@
       "locationName": "CD",
       "parkingLot": "string",
       "status": "CHARGING",
-      "startDate": "2023-04-04T15:23:29.037Z",
-      "endDate": "2023-04-04T22:23:29.037Z",
+      "startDate": "2023-04-04T15:23:29.037",
+      "endDate": "2023-04-04T22:23:29.037",
       "energyCharged": 54,
       "sessionCost": 677.65
     }
